@@ -7,7 +7,7 @@
  * Generates Privacy Policy, Terms of Use, Cookie Policy and more
  * for 93 jurisdictions in multiple languages.
  *
- * @author Maxim Alex
+ * @author Maxim Semenov <maxim@smnv.org> (smnv.org)
  * @license MIT
  */
 class ProcessLegalDocs extends Process implements Module, ConfigurableModule {
@@ -17,7 +17,8 @@ class ProcessLegalDocs extends Process implements Module, ConfigurableModule {
             'title'    => 'Legal Docs',
             'version'  => 100,
             'summary'  => 'AI-powered legal document generator. Generates Privacy Policy, Terms of Use, Cookie Policy and more for 93 jurisdictions.',
-            'author'   => 'Maxim Alex',
+            'author'   => 'Maxim Semenov',
+            'href'     => 'https://smnv.org',
             'icon'     => 'file-text-o',
             'requires' => 'ProcessWire>=3.0.255, PHP>=8.3',
             'autoload' => false,
