@@ -2,6 +2,8 @@
 
 AI-powered legal document generator for [ProcessWire CMS](https://processwire.com).
 
+![ProcessLegalDocs](assets/ProcessLegalDocs.png)
+
 Generates Privacy Policy, Terms of Use, Cookie Policy, and other legal documents for 93 jurisdictions in 44 languages — directly from your ProcessWire admin.
 
 ---
