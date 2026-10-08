@@ -12,7 +12,7 @@ Generates Privacy Policy, Terms of Use, Cookie Policy, and other legal documents
 **Website:** [smnv.org](https://smnv.org)  
 **Email:** [maxim@smnv.org](mailto:maxim@smnv.org)
 
-If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).  
+If this project helps your work, consider supporting future development: [GitHub Sponsors](https://github.com/sponsors/mxmsmnv) or [smnv.org/sponsor](https://smnv.org/sponsor/).
 
 ## Features
 
